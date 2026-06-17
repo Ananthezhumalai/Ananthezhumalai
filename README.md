@@ -11,13 +11,13 @@ Working as a front end developer<br>i am currently learning backend technologies
 React<br>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
+<a href="https://github.com/Ananthezhumalai"><img src="https://github-readme-stats.vercel.app/api?username=AnanthEzhumalai&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnanthEzhumalai's GitHub stats" /></a>
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipayansarkar47&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Ananthezhumalai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnanthEzhumalai&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dipayansarkar47&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Ananthezhumalai"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnanthEzhumalai&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/dipayansarkar47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayansarkar47&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ananthezhumalai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthEzhumalai&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <b>skills</b>
 <img src="https://progress-bar.xyz/85/?title=React">
 
