@@ -13,10 +13,3 @@ Working as a front end developer<br>i am currently learning backend technologies
 ![](https://streak-stats.demolab.com/?user=Ananthezhumalai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ananthezhumalai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ananthezhumalai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Ananthezhumalai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
