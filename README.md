@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/AnanthEzhumalai?logo=github&style=f
 
 # Badges 
 
-
+![Holopin badges](https://holopin.me/dipayansarkar47)
 
 <b>My GitHub Stats</b>
 
